@@ -1,0 +1,85 @@
+/* MIU
+   Term 1306
+   Banchop Ben Kangdouangnhot
+   Project 1
+ */
+   
+   
+html {
+     background-color: #fff;
+}
+body {
+    font-family: "Helvetica", "Arial", sans-serif;
+    background-color: #fff;
+    color: #000000;
+   
+   
+}
+p {
+    margin: 1.5em 0;
+}
+h1 {
+	text-align: center;
+	font-size: 200%;
+
+}
+
+h2 {
+	text-align: left;
+	font-size: 110%;
+	color: #000000;
+	text-align: center;
+    padding: 1em;
+    font-family:"Times New Roman", Times, serif;
+    background-color: #00BFFF;
+}
+
+label {
+	display : block;
+
+}
+
+
+nav {
+	font-size: 120%;
+	text-align: center;
+	color: #000000;
+	padding: .5em;
+    background-color: #87CEFA; 
+    font-family:"Times New Roman", Times, serif;
+    border: 1px solid black;
+}
+
+div {
+	font-size: 120%;
+	text-align: center;
+	color: #000000;
+	padding: .5em;
+    background-color: #ffffff; 
+    font-family:"Times New Roman", Times, serif;
+}
+
+input {
+	color: #191970;
+	
+}
+
+#range {
+    -webkit-appearance: slider-horizontal;
+    width: 100px;
+    height: 5px;
+}
+
+legend {
+	text-align: center;
+	font-size: 130%;
+	font-weight: bold;
+	color: #0000FF;
+	font-family:"Times New Roman", Times, serif;
+}
+
+fieldset {
+	margin: .2em 0;
+}
+
+
